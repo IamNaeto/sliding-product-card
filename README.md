@@ -1,6 +1,8 @@
 # Sliding Product Card
 - A product card that slides and opens the product information and details on over.
+
     - Live Link [Go Live](https://iamnaeto.github.io/sliding-product-card/)
+    
 ## Author: Charles Obimnaeto Egesionu ##
 
 ## Connect with me: ##
